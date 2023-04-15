@@ -3,4 +3,4 @@
 Example:
 	1, 2, 3
 	Average = (1 + 2 + 3) / 3
-	Average = 2
+Average = 2
