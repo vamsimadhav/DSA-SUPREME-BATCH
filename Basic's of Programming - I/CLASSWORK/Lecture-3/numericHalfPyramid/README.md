@@ -1,6 +1,6 @@
 ### Inverted Half Pyramid
 	row is a user input value
-Example:
+#### Example:
 	1
 	1 2
 	1 2 3
