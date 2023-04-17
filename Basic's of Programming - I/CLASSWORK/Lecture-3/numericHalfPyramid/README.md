@@ -1,4 +1,4 @@
-### Inverted Half Pyramid
+### Numeric Half Pyramid
 	row is a user input value
 #### Example:
 	1
