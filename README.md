@@ -29,15 +29,15 @@
 
 #
 #### Lecture-3
-| No       | Classwork | Homework |
-| :---     | :---      |     ---: |
-|1|[Full Pyramid](https://github.com/vamsimadhav/DSA-SUPREME-BATCH/tree/main/Basic's%20of%20Programming%20-%20I/CLASSWORK/Lecture-3/fullPyramid)||
-|2|[Half Pyramid](https://github.com/vamsimadhav/DSA-SUPREME-BATCH/tree/main/Basic's%20of%20Programming%20-%20I/CLASSWORK/Lecture-3/halfPyramid)||
-|3|[Hollow Rectangle](https://github.com/vamsimadhav/DSA-SUPREME-BATCH/tree/main/Basic's%20of%20Programming%20-%20I/CLASSWORK/Lecture-3/hollowRectangle#hollow-rectangle)||
-|4|[Inverted Full Pyramid](https://github.com/vamsimadhav/DSA-SUPREME-BATCH/tree/main/Basic's%20of%20Programming%20-%20I/CLASSWORK/Lecture-3/invertedFullPyramid)||
-|6|[Inverted Half Pyramid](https://github.com/vamsimadhav/DSA-SUPREME-BATCH/tree/main/Basic's%20of%20Programming%20-%20I/CLASSWORK/Lecture-3/invertedHalfPyramid)||
-|7|[Inverted Numeric Half Pyramid](https://github.com/vamsimadhav/DSA-SUPREME-BATCH/tree/main/Basic's%20of%20Programming%20-%20I/CLASSWORK/Lecture-3/invertedNumericHalfPyramid)||
-|8|[Numeric Full Pyramid](https://github.com/vamsimadhav/DSA-SUPREME-BATCH/tree/main/Basic's%20of%20Programming%20-%20I/CLASSWORK/Lecture-3/numericFullPyramid)||
-|9|[Numeric Half Pyramid](https://github.com/vamsimadhav/DSA-SUPREME-BATCH/blob/main/Basic's%20of%20Programming%20-%20I/CLASSWORK/Lecture-3/numericHalfPyramid/README.md)||
-|10|[Numeric Hollow Pyramid](https://github.com/vamsimadhav/DSA-SUPREME-BATCH/tree/main/Basic's%20of%20Programming%20-%20I/CLASSWORK/Lecture-3/numericHollowFullPyramid)||
-|11|[Solid Rectangle](https://github.com/vamsimadhav/DSA-SUPREME-BATCH/tree/main/Basic's%20of%20Programming%20-%20I/CLASSWORK/Lecture-3/solidRectange)||
+| No       | Classwork | Homework | Geeks For Geeks|
+| :---     | :---      |     ---: |---:  |
+|1|[Full Pyramid](https://github.com/vamsimadhav/DSA-SUPREME-BATCH/tree/main/Basic's%20of%20Programming%20-%20I/CLASSWORK/Lecture-3/fullPyramid)|||
+|2|[Half Pyramid](https://github.com/vamsimadhav/DSA-SUPREME-BATCH/tree/main/Basic's%20of%20Programming%20-%20I/CLASSWORK/Lecture-3/halfPyramid)||[Pattern 2](https://practice.geeksforgeeks.org/problems/right-triangle/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=pattern_2)|
+|3|[Hollow Rectangle](https://github.com/vamsimadhav/DSA-SUPREME-BATCH/tree/main/Basic's%20of%20Programming%20-%20I/CLASSWORK/Lecture-3/hollowRectangle#hollow-rectangle)|||
+|4|[Inverted Full Pyramid](https://github.com/vamsimadhav/DSA-SUPREME-BATCH/tree/main/Basic's%20of%20Programming%20-%20I/CLASSWORK/Lecture-3/invertedFullPyramid)|||
+|6|[Inverted Half Pyramid](https://github.com/vamsimadhav/DSA-SUPREME-BATCH/tree/main/Basic's%20of%20Programming%20-%20I/CLASSWORK/Lecture-3/invertedHalfPyramid)|||
+|7|[Inverted Numeric Half Pyramid](https://github.com/vamsimadhav/DSA-SUPREME-BATCH/tree/main/Basic's%20of%20Programming%20-%20I/CLASSWORK/Lecture-3/invertedNumericHalfPyramid)|||
+|8|[Numeric Full Pyramid](https://github.com/vamsimadhav/DSA-SUPREME-BATCH/tree/main/Basic's%20of%20Programming%20-%20I/CLASSWORK/Lecture-3/numericFullPyramid)|||
+|9|[Numeric Half Pyramid](https://github.com/vamsimadhav/DSA-SUPREME-BATCH/blob/main/Basic's%20of%20Programming%20-%20I/CLASSWORK/Lecture-3/numericHalfPyramid/README.md)||[Pattern 3](https://practice.geeksforgeeks.org/problems/triangle-number/1)|
+|10|[Numeric Hollow Pyramid](https://github.com/vamsimadhav/DSA-SUPREME-BATCH/tree/main/Basic's%20of%20Programming%20-%20I/CLASSWORK/Lecture-3/numericHollowFullPyramid)|||
+|11|[Solid Rectangle](https://github.com/vamsimadhav/DSA-SUPREME-BATCH/tree/main/Basic's%20of%20Programming%20-%20I/CLASSWORK/Lecture-3/solidRectange)||[Pattern 1](https://practice.geeksforgeeks.org/problems/square-pattern/1)|
