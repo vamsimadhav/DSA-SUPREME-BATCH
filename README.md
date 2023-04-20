@@ -29,7 +29,7 @@
 
 #
 #### Lecture-3
-| No       | Classwork | Geeks For Geeks|Homework |
+| No       | Classwork | GFG |Homework |
 | :---     | :---      |     ---: |---:  |
 |1|[Full Pyramid](https://github.com/vamsimadhav/DSA-SUPREME-BATCH/tree/main/Basic's%20of%20Programming%20-%20I/CLASSWORK/Lecture-3/fullPyramid)|||
 |2|[Half Pyramid](https://github.com/vamsimadhav/DSA-SUPREME-BATCH/tree/main/Basic's%20of%20Programming%20-%20I/CLASSWORK/Lecture-3/halfPyramid)|[Pattern 2](https://practice.geeksforgeeks.org/problems/right-triangle/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=pattern_2)||
