@@ -41,3 +41,11 @@
 |9|[Numeric Half Pyramid](https://github.com/vamsimadhav/DSA-SUPREME-BATCH/blob/main/Basic's%20of%20Programming%20-%20I/CLASSWORK/Lecture-3/numericHalfPyramid/README.md)|[Pattern 3](https://practice.geeksforgeeks.org/problems/triangle-number/1)|
 |10|[Numeric Hollow Pyramid](https://github.com/vamsimadhav/DSA-SUPREME-BATCH/tree/main/Basic's%20of%20Programming%20-%20I/CLASSWORK/Lecture-3/numericHollowFullPyramid)||
 |11|[Solid Rectangle](https://github.com/vamsimadhav/DSA-SUPREME-BATCH/tree/main/Basic's%20of%20Programming%20-%20I/CLASSWORK/Lecture-3/solidRectange)|[Pattern 1](https://practice.geeksforgeeks.org/problems/square-pattern/1)|
+
+#
+#### Basic's of Programming - II
+#### Lecture-1
+| No       | Classwork | Homework |
+| :---     | :---      |     ---: |
+|1|[Hollow Diamond](https://github.com/vamsimadhav/DSA-SUPREME-BATCH/tree/main/Basic's%20of%20Programming%20-%20II/CLASSWORK/Lecture-1/hollowDiamond)||
+|2|[Solid Diamond](https://github.com/vamsimadhav/DSA-SUPREME-BATCH/tree/main/Basic's%20of%20Programming%20-%20II/CLASSWORK/Lecture-1/solidDiamond)||
