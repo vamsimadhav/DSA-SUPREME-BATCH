@@ -11,11 +11,3 @@
 | Tree's - I | Tree's - II | Heaps | Maps & Tries |
 | WEEK - 17                 | WEEK - 18                   | WEEK - 19                         |   WEEK - 20          |
 | Graphs - I | Graphs - II | Dynamic Programming - I | Dynamic Programming - II |
-
-#
-#### Basic's of Programming - II
-#### Lecture-1
-| No       | Classwork | Homework |
-| :---     | :---      |     ---: |
-|1|[Hollow Diamond](https://github.com/vamsimadhav/DSA-SUPREME-BATCH/tree/main/Basic's%20of%20Programming%20-%20II/CLASSWORK/Lecture-1/hollowDiamond)||
-|2|[Solid Diamond](https://github.com/vamsimadhav/DSA-SUPREME-BATCH/tree/main/Basic's%20of%20Programming%20-%20II/CLASSWORK/Lecture-1/solidDiamond)||
