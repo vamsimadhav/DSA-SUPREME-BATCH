@@ -2,7 +2,7 @@
 ### Topics :-
 | WEEK - 1                   | WEEK - 2                    | WEEK - 3                          |   WEEK - 4          |
 | :---                       | :---                        |:---                               |:---                 |
-| Basic's of Programming - I | Basic's of Programming - II | Array's , Time & Space Complexity | Searching & Sorting |
+|[Basic's of Programming - I](https://github.com/vamsimadhav/DSA-SUPREME-BATCH/tree/main/Basic's%20of%20Programming%20-%20I) | Basic's of Programming - II | Array's , Time & Space Complexity | Searching & Sorting |
 | WEEK - 5                   | WEEK - 6                    | WEEK - 7                          |   WEEK - 8          |
 | Char Arrays & Strings      | Basic Maths & Pointer's     | Recursion & Backtracking          | Divide & Conquer, Time & Space Complexity |
 | WEEK - 9                   | WEEK - 10                    | WEEK - 11                         |   WEEK - 12         |
